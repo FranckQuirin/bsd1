@@ -1,4 +1,5 @@
 .principale {
         border : 1px solid black;
-        color : red
+        color : red ; 
+        font-size: 1.5em;
 }
